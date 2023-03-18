@@ -1,3 +1,7 @@
+# Typescript Generics Workshop
+
+This repository contains my notes and solutions for the Total Typescript - Generics workshop. The original problem solutions are still in the repo, with the `.solution` suffix. My solutions and notes use the `.sol` suffix.
+
 <a href="https://totaltypescript.com"><img src="./og-image-new.png" /></a>
 
 ## Quickstart
